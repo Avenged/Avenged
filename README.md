@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avenged
 - 👀 I’m interested in C#, Blazor, .NET Framework, .NET Core, ASP MVC, React, Javascript... 
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on .NET developers.
+- 💞️ I’m looking to collaborate with .NET developers.
 - 📫 How to reach me: chaudarysucre@gmail.com
 
 <!---
